@@ -1,0 +1,45 @@
+{
+  "name": "portfolio-v3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A modern, immersive portfolio website featuring 3D graphics, advanced animations, and AI-powered chat, inspired by cutting-edge web experiences like Lando Norris's website.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.4.0",
+    "@react-three/postprocessing": "^3.0.4",
+    "@supabase/supabase-js": "^2.81.1",
+    "@types/pg": "^8.15.6",
+    "@types/three": "^0.181.0",
+    "dotenv": "^17.2.3",
+    "framer-motion": "^12.23.24",
+    "gsap": "^3.13.0",
+    "lenis": "^1.3.15",
+    "lucide-react": "^0.553.0",
+    "next": "16.0.3",
+    "pg": "^8.16.3",
+    "pgvector": "^0.2.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "three": "^0.181.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@tailwindcss/typography": "^0.5.10",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.3",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5"
+  }
+}

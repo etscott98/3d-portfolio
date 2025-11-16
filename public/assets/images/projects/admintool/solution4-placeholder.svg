@@ -1,0 +1,6 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#141414"/>
+  <text x="400" y="240" font-family="Inter, system-ui, sans-serif" font-size="24" fill="#6EEAFF" text-anchor="middle">Screenshot Coming Soon</text>
+  <text x="400" y="270" font-family="Inter, system-ui, sans-serif" font-size="16" fill="#888888" text-anchor="middle">Engineering dashboard with prioritized tickets</text>
+  <path d="M350 200 L450 200 L450 150 L400 100 L350 150 Z" fill="none" stroke="#6EEAFF" stroke-width="2" opacity="0.3"/>
+</svg>
